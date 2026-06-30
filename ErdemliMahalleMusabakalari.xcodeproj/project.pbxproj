@@ -1,0 +1,575 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		02CF908B2FF39225008DE2CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 02CF90732FF39221008DE2CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 02CF907A2FF39221008DE2CA;
+			remoteInfo = ErdemliMahalleMusabakalari;
+		};
+		02CF90952FF39225008DE2CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 02CF90732FF39221008DE2CA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 02CF907A2FF39221008DE2CA;
+			remoteInfo = ErdemliMahalleMusabakalari;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		02CF907B2FF39221008DE2CA /* ErdemliMahalleMusabakalari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ErdemliMahalleMusabakalari.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		02CF908A2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ErdemliMahalleMusabakalariTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		02CF90942FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ErdemliMahalleMusabakalariUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		02CF907D2FF39221008DE2CA /* ErdemliMahalleMusabakalari */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ErdemliMahalleMusabakalari;
+			sourceTree = "<group>";
+		};
+		02CF908D2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ErdemliMahalleMusabakalariTests;
+			sourceTree = "<group>";
+		};
+		02CF90972FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ErdemliMahalleMusabakalariUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		02CF90782FF39221008DE2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90872FF39225008DE2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90912FF39225008DE2CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		02CF90722FF39221008DE2CA = {
+			isa = PBXGroup;
+			children = (
+				02CF907D2FF39221008DE2CA /* ErdemliMahalleMusabakalari */,
+				02CF908D2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests */,
+				02CF90972FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests */,
+				02CF907C2FF39221008DE2CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		02CF907C2FF39221008DE2CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				02CF907B2FF39221008DE2CA /* ErdemliMahalleMusabakalari.app */,
+				02CF908A2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests.xctest */,
+				02CF90942FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		02CF907A2FF39221008DE2CA /* ErdemliMahalleMusabakalari */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02CF909E2FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalari" */;
+			buildPhases = (
+				02CF90772FF39221008DE2CA /* Sources */,
+				02CF90782FF39221008DE2CA /* Frameworks */,
+				02CF90792FF39221008DE2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				02CF907D2FF39221008DE2CA /* ErdemliMahalleMusabakalari */,
+			);
+			name = ErdemliMahalleMusabakalari;
+			packageProductDependencies = (
+			);
+			productName = ErdemliMahalleMusabakalari;
+			productReference = 02CF907B2FF39221008DE2CA /* ErdemliMahalleMusabakalari.app */;
+			productType = "com.apple.product-type.application";
+		};
+		02CF90892FF39225008DE2CA /* ErdemliMahalleMusabakalariTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02CF90A12FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalariTests" */;
+			buildPhases = (
+				02CF90862FF39225008DE2CA /* Sources */,
+				02CF90872FF39225008DE2CA /* Frameworks */,
+				02CF90882FF39225008DE2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				02CF908C2FF39225008DE2CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				02CF908D2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests */,
+			);
+			name = ErdemliMahalleMusabakalariTests;
+			packageProductDependencies = (
+			);
+			productName = ErdemliMahalleMusabakalariTests;
+			productReference = 02CF908A2FF39225008DE2CA /* ErdemliMahalleMusabakalariTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		02CF90932FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 02CF90A42FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalariUITests" */;
+			buildPhases = (
+				02CF90902FF39225008DE2CA /* Sources */,
+				02CF90912FF39225008DE2CA /* Frameworks */,
+				02CF90922FF39225008DE2CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				02CF90962FF39225008DE2CA /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				02CF90972FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests */,
+			);
+			name = ErdemliMahalleMusabakalariUITests;
+			packageProductDependencies = (
+			);
+			productName = ErdemliMahalleMusabakalariUITests;
+			productReference = 02CF90942FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		02CF90732FF39221008DE2CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2640;
+				LastUpgradeCheck = 2640;
+				TargetAttributes = {
+					02CF907A2FF39221008DE2CA = {
+						CreatedOnToolsVersion = 26.4.1;
+					};
+					02CF90892FF39225008DE2CA = {
+						CreatedOnToolsVersion = 26.4.1;
+						TestTargetID = 02CF907A2FF39221008DE2CA;
+					};
+					02CF90932FF39225008DE2CA = {
+						CreatedOnToolsVersion = 26.4.1;
+						TestTargetID = 02CF907A2FF39221008DE2CA;
+					};
+				};
+			};
+			buildConfigurationList = 02CF90762FF39221008DE2CA /* Build configuration list for PBXProject "ErdemliMahalleMusabakalari" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 02CF90722FF39221008DE2CA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 02CF907C2FF39221008DE2CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				02CF907A2FF39221008DE2CA /* ErdemliMahalleMusabakalari */,
+				02CF90892FF39225008DE2CA /* ErdemliMahalleMusabakalariTests */,
+				02CF90932FF39225008DE2CA /* ErdemliMahalleMusabakalariUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		02CF90792FF39221008DE2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90882FF39225008DE2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90922FF39225008DE2CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		02CF90772FF39221008DE2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90862FF39225008DE2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		02CF90902FF39225008DE2CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		02CF908C2FF39225008DE2CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 02CF907A2FF39221008DE2CA /* ErdemliMahalleMusabakalari */;
+			targetProxy = 02CF908B2FF39225008DE2CA /* PBXContainerItemProxy */;
+		};
+		02CF90962FF39225008DE2CA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 02CF907A2FF39221008DE2CA /* ErdemliMahalleMusabakalari */;
+			targetProxy = 02CF90952FF39225008DE2CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		02CF909C2FF39225008DE2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		02CF909D2FF39225008DE2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		02CF909F2FF39225008DE2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalari;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		02CF90A02FF39225008DE2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalari;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		02CF90A22FF39225008DE2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalariTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ErdemliMahalleMusabakalari.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ErdemliMahalleMusabakalari";
+			};
+			name = Debug;
+		};
+		02CF90A32FF39225008DE2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalariTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ErdemliMahalleMusabakalari.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ErdemliMahalleMusabakalari";
+			};
+			name = Release;
+		};
+		02CF90A52FF39225008DE2CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalariUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ErdemliMahalleMusabakalari;
+			};
+			name = Debug;
+		};
+		02CF90A62FF39225008DE2CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = EDemirsen.ErdemliMahalleMusabakalariUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ErdemliMahalleMusabakalari;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		02CF90762FF39221008DE2CA /* Build configuration list for PBXProject "ErdemliMahalleMusabakalari" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02CF909C2FF39225008DE2CA /* Debug */,
+				02CF909D2FF39225008DE2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02CF909E2FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalari" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02CF909F2FF39225008DE2CA /* Debug */,
+				02CF90A02FF39225008DE2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02CF90A12FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalariTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02CF90A22FF39225008DE2CA /* Debug */,
+				02CF90A32FF39225008DE2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02CF90A42FF39225008DE2CA /* Build configuration list for PBXNativeTarget "ErdemliMahalleMusabakalariUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02CF90A52FF39225008DE2CA /* Debug */,
+				02CF90A62FF39225008DE2CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 02CF90732FF39221008DE2CA /* Project object */;
+}
